@@ -7,3 +7,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
         }
       });
 });
+
+tengo que agregar esto nuevo
